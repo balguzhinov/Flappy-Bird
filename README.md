@@ -1,2 +1,1 @@
-# balguzhinov.flappy.bird.github.io
-Flappy Bird
+# flappy-bird
