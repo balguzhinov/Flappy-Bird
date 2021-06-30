@@ -86,7 +86,7 @@ if(checker == true){
       gameOver.play();
       checker = false;
       swal({
-             title: "Настя",
+             title: "Аида",
              text: "Го встречаться?",
              type: "warning",
              },
